@@ -18,14 +18,14 @@ import project06Big from "../img/projects/06-big.jpg";
 
  const projects = [
     {
-        title: 'title1',
+        title: 'Streaming service',
         skills: 'React, NodeJs',
         img: project01,
         imgBig: project01Big,
         gitHubLink: 'https://github.com'
     },
     {
-        title: 'title2',
+        title: 'Video service',
         skills: 'React, NodeJs',
         img: project02,
         imgBig: project02Big,
